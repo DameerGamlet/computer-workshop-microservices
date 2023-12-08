@@ -1,0 +1,9 @@
+rootProject.name = 'computer-workshop-microservices'
+include 'config-server'
+include 'user-service'
+include 'gateway-service'
+include 'authorization-service'
+include 'product-service'
+include 'order-service'
+include 'admin-service'
+
